@@ -1,0 +1,57 @@
+body{
+	background:black;
+}
+head{
+	font-size: 24;
+	color:white;
+	font-style: "roboto":sans-serif;
+}
+
+h2{
+	color: white;
+	font-size: 24;
+	font-style: "roboto":sans-serif;
+}
+
+h2.a{
+	color: white; 
+	text-shadow: gray 0.1em 0.1em 0.2em
+	font-style: "roboto":sans-serif;
+}
+
+h3{
+	color:white;
+	font-size: 24;
+	font-style: "roboto":sans-serif;
+}
+p.a{
+	color: white; 
+	text-shadow: gray 0.1em 0.1em 0.2em
+}
+
+p{
+	background-color: white;
+}
+
+div.q{
+	margin:1;
+	padding:1;
+}
+
+.center{ 
+	text-align: 
+	center; color:red;
+}
+
+.fifty img{float:left;
+	width:300px; 
+	height:300px;
+	margin:1em;
+}
+
+li{
+	float:center;
+	display:inline-block;
+	padding:10px;
+	list-style: none;
+}
